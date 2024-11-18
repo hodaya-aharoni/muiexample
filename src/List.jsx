@@ -5,7 +5,7 @@ const List = () => {
     let options=["left","middle","right","bottom"]
     return <ButtonGroup size="small" aria-label="Small button group">
     
-    {options.map(item=><Button key={item}>{item}</Button> )}    
+    {options.map(item=><Button key={item}>{item}sdsadsa</Button> )}    
    
         
     </ButtonGroup>
